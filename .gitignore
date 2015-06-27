@@ -1,0 +1,7 @@
+.cabal-sandbox
+Setup.hs
+cabal.sandbox.config
+dist
+hmc
+input.txt
+output.txt
